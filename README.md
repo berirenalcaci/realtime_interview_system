@@ -3,6 +3,7 @@
 ## Overview
 
 This project leverages Streamlit to create a user-friendly interface for real-time webcam-based face emotion detection. The application utilizes the Haar Cascade classifier for face detection and a transfer-learned ImageNet model trained on the FER 2013 dataset for facial emotion classification.
+The application uses Python version 3.8.
 
 ## Features
 
